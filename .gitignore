@@ -30,3 +30,11 @@ build/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Python
+aoc2015/aoc2015-python/src/main/python/__pycache__/
+aoc2015/aoc2015-python/src/test/python/__pycache__/
+aoc2015/aoc2015-python/src/test/resources/.coverage
+
+# Python test results
+aoc2015/aoc2015-python/src/main/resources/de/havox_design/aoc2015/day19/day19result_part2.txt

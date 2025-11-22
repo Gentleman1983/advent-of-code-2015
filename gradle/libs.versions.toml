@@ -4,6 +4,7 @@ commons-lang3 = "3.17.0"
 hamcrest = "3.0"
 junit5 = "5.12.2"
 kotlin-jvm = "2.1.21"
+python-plugin = "3.1.1"
 sonarqube-plugin = "6.2.0.5505"
 struts2 = "7.0.3"
 
@@ -16,4 +17,5 @@ struts2-core = { group = "org.apache.struts", name = "struts2-core", version.ref
 
 [plugins]
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin-jvm" }
+python-plugin = { id = "com.pswidersk.python-plugin", version.ref = "python-plugin" }
 sonarqube-plugin = { id = "org.sonarqube", version.ref = "sonarqube-plugin" }

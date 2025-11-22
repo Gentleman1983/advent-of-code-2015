@@ -13,6 +13,7 @@ dependencyResolutionManagement {
 include("aoc2015")
 include("aoc2015:aoc2015-java")
 include("aoc2015:aoc2015-kotlin")
+include("aoc2015:aoc2015-python")
 
 include("advent-of-code-utils")
 apply( "advent-of-code-utils/settings.gradle.kts")
