@@ -40,7 +40,7 @@ To run all solutions, simply run `./gradlew run`. If you want to run the solutio
 | 16      | ⭐ ![Kotlin](img/kotlin.png) | ⭐ ![Kotlin](img/kotlin.png)                        |
 | 17      | ⭐ ![Java](img/java.png)     | ⭐ ![Java](img/java.png)                            |
 | 18      | ⭐ ![Kotlin](img/kotlin.png) | ⭐ ![Kotlin](img/kotlin.png)                        |
-| 19      | ⭐ ![Kotlin](img/kotlin.png) | ⭐ ![Java](img/java.png), ![Python](img/python.png) |
+| 19      | ⭐ ![Kotlin](img/kotlin.png) | ⭐ ![Java](img/java.png) ![Python](img/python.png) |
 | 20      | ⭐ ![Java](img/java.png)     | ⭐ ![Java](img/java.png)                            |
 | 21      | ⭐ ![Java](img/java.png)     | ⭐ ![Java](img/java.png)                            |
 | 22      | ⭐ ![Java](img/java.png)     | ⭐ ![Java](img/java.png)                            |
